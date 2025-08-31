@@ -1,7 +1,7 @@
 # Hi there! I'm Vrida Pusparani 👋  
 
 ## 🚀 About Me  
-I'm an Informatics student passionate about **Machine Learning, Data Science, and Bioinformatics**. Currently, I'm working on exciting projects related to **computer vision, cloud computing, and AI applications in historical studies**.  
+I'm an Informatics student passionate about **Machine Learning, Data Science, and Mobile Programming**. Currently, I'm working on exciting projects related to **computer vision, cloud computing, and AI applications in historical studies**.  
 
 - 🔍 **Exploring**: Deep Learning, Genetic Algorithms,Mobile Dev and NLP  
 - 💡 **Looking to Collaborate On**: ML projects, data-driven research, and open-source contributions  
